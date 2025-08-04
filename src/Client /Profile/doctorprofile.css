@@ -1,0 +1,40 @@
+.doctor-profile {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #fefefe;
+}
+
+.doctor-profile img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.doctor-profile h2 {
+  font-size: 1.5rem;
+  margin-bottom: 8px;
+}
+
+.doctor-profile p {
+  margin: 6px 0;
+}
+
+.doctor-profile button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.doctor-profile button:hover {
+  background-color: #218838;
+}
